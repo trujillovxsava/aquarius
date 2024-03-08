@@ -1,0 +1,26 @@
+{
+"name": "aquarius-thd-1",
+"version": "1.0.0",
+"description": "a versatile platform designed to streamline collaboration and enhance productivity for professionals across various industries.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/trujillovxsava/aquarius.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "trujillovxsava",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
